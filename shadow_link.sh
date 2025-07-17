@@ -102,7 +102,7 @@ banner() {
 
 
     echo -e "Author      : ${YELLOW}Gaurav Mahajan${RESET}"
-    echo -e "GitHub Repo : ${YELLOW}https://github.com/gauravmahajan-dev/shadow-link${RESET}"
+    echo -e "GitHub Repo : ${YELLOW}https://github.com/mahajang214/shadow_link${RESET}"
     # echo -e "License     : ${YELLOW}MIT (Open Source)${RESET}"
     echo -e "${RED}This tool only works in LINUX all distros"
     lines(){
@@ -154,7 +154,7 @@ RESET="\e[0m"
 # start program
 download_tool
 banner
-sleep 10;
+sleep 1;
 
 echo -e "\e[92mPlease select an option given below:"
 echo "1. Scan wifi networks"
