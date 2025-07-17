@@ -1,10 +1,8 @@
-```markdown
 # ShadowLink ⚡
 
 A powerful and user-friendly WiFi automation tool that provides an interactive interface for the `nmcli` command-line utility. ShadowLink makes managing wireless networks on Linux systems both easy and visually appealing.
 
 ## Availabel for all LINUX distributions
-
 
 ## 🚀 Features
 
@@ -119,5 +117,4 @@ This tool is designed for legitimate network management purposes only. Some feat
 
 ---
 Made with ❤️ by Gaurav Mahajan
-```
-`` 
+
