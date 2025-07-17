@@ -6,8 +6,8 @@ A powerful and user-friendly WiFi automation tool that provides an interactive i
 
 ### 📷 Screenshot
 
-![Shadow-Link Banner](~/Pictures/Screenshots/shadow_link_banner.png)
-![Shadow-Link Menu](~/Pictures/Screenshots/shadow_link_menu.png)
+![Shadow-Link Banner](./images/shadow_link_banner.png)
+![Shadow-Link Menu](./images/shadow_link_menu.png)
 
 
 ## 🚀 Features
