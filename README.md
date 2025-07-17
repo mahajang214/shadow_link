@@ -4,6 +4,12 @@ A powerful and user-friendly WiFi automation tool that provides an interactive i
 
 ## Availabel for all LINUX distributions
 
+### 📷 Screenshot
+
+![Shadow-Link Banner](~/Pictures/Screenshots/shadow_link_banner.png)
+![Shadow-Link Menu](~/Pictures/Screenshots/shadow_link_menu.png)
+
+
 ## 🚀 Features
 
 - 📡 Scan and list available WiFi networks
